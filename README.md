@@ -2,9 +2,11 @@
 A simple android application that uses The Guardian API to pull the latest news related to World Cup.
 
 ## How to use
-You just need to add the Gurdian API key intp the `gradle.properties` file as following 
+You just need to add the Guardian API key into the `gradle.properties` file as following 
 
-`guardianAPIs_ApiKey="YOUR-API-KEY-HERE"`
+`guardianAPIs_ApiKey="YOUR-API-KEY-HERE"` 
+
+You can obtain the key from [here](https://open-platform.theguardian.com/access/)
 
 ## Features
 * Pull to refresh
